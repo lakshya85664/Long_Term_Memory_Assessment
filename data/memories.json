@@ -1,0 +1,23 @@
+[
+    {
+        "id": "ab6b1287-8ac3-45e7-af2a-5aab4f23823b",
+        "text": "The user is learning AI and machine learning.",
+        "source": "conversation",
+        "timestamp": "2026-10-31T11:50:04.564269+00:00",
+        "importance": 0.9
+    },
+    {
+        "id": "a5ce540c-c5b7-44a0-b0bd-87deb6b6fe26",
+        "text": "The user prefers backend development.",
+        "source": "user_profile",
+        "timestamp": "2026-10-31T11:50:04.565429+00:00",
+        "importance": 0.8
+    },
+    {
+        "id": "7a61ce73-fe23-430e-bb78-f9ddf9719c3a",
+        "text": "The user is interested in building AI agents.",
+        "source": "conversation",
+        "timestamp": "2026-10-31T11:50:04.566326+00:00",
+        "importance": 0.85
+    }
+]
